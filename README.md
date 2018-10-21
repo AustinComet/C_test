@@ -1,1 +1,1 @@
-meow
+This is AustinComet C testfile.
